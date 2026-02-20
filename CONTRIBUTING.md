@@ -1,5 +1,6 @@
 коммит в новом клоне 1
 коммит в новом клоне 2
+коммит в новом клоне 3
 # How to Contribute
 
 We'd love to accept your patches and contributions to this project. There are
